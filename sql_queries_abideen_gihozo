@@ -1,3 +1,9 @@
+#1
+SELECT
+    COUNT('sector_id')
+FROM
+    sector;
+
 #2
 SELECT DISTINCT
     staff_id,
